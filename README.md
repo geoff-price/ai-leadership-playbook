@@ -1,16 +1,13 @@
-# AI Leadership Playbook
+# AI Leadership — decision skills
 
-Practical decision tools for AI leaders — one durable book idea at a time.
+Forkable decision tools by [Geoff Price](https://ai-leadership-playbook-site.vercel.app) —
+one durable book idea at a time. The essays live at
+**[ai-leadership-playbook-site.vercel.app](https://ai-leadership-playbook-site.vercel.app)**;
+this repo holds the skills behind them.
 
-Most AI advice is noise. These are tools. Each one takes a single, durable idea from a book
-worth reading and turns it into something you can run today: it interviews you about a real
-decision and produces an artifact tailored to your situation.
-
-## The idea behind it
-
-AI is an operating-model problem, not a tool problem. The scarce skill now isn't access to
-information — it's judgment: separating signal from noise. These tools translate durable
-thinking into practical judgment for the AI era.
+Each one takes a single, durable idea from a book worth reading and turns it into something
+you can run today: it interviews you about a real decision and produces an answer built on
+your situation.
 
 ## How to use a skill
 
@@ -24,9 +21,10 @@ Every skill is meant to be **forked and modified** for your own context.
 ## Skills
 
 - [Good Strategy / Bad Strategy](./skills/good-strategy-bad-strategy) — pressure-test an AI
-  roadmap against Rumelt's kernel and catch "bad strategy" before it gets funded.
+  roadmap against Rumelt's test for real strategy, and catch the bad kind before it gets
+  funded.
 
-## A note on the books
+## The books
 
 Each skill is our own synthesis — a tool, never a summary or a substitute. If an idea earns
 a place in your thinking, read the book. Links are in each skill.
