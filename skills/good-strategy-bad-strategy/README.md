@@ -11,11 +11,15 @@ actual strategy (or shows you why you don't have one yet).
 
 ## Use it
 
-**In Claude (as a Skill):** drop this folder into your skills directory and invoke
-`good-strategy-bad-strategy`.
+**Easiest — copy & paste (any AI):** open [`prompt.md`](./prompt.md), paste it into ChatGPT,
+Claude, or Copilot, and answer its questions. That's the whole thing — it interviews you,
+then hands back a one-pager for your situation.
 
-**Anywhere else (copy-paste):** open [`prompt.md`](./prompt.md), copy it into ChatGPT,
-Claude, Copilot, or any assistant, and answer the questions.
+**As a Claude Skill (optional, for Claude users):** add this folder as a skill — see
+[how to use skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
+In Claude Code, drop it in `~/.claude/skills/`; in claude.ai, go to Customize → Skills →
+Create skill. Then ask Claude to use **good-strategy-bad-strategy**. Not set up for skills?
+The copy-paste prompt above is identical.
 
 ## Fork it
 
