@@ -65,4 +65,4 @@ startup face different obstacles. Make it yours.
 
 This framework is our own synthesis, inspired by *Good Strategy/Bad Strategy* by Richard
 Rumelt. It is not a summary or a substitute. If the idea is useful, **read the book** —
-https://www.amazon.com/dp/0593162927
+https://www.amazon.com/dp/0307886239

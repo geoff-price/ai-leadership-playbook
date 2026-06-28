@@ -25,4 +25,4 @@ emphasis to your context. Make it yours.
 ## Read the book
 
 This skill is our own synthesis — a tool, not a summary or a substitute. If the idea earns
-a place in your thinking, **read the book**: https://www.amazon.com/dp/0593162927
+a place in your thinking, **read the book**: https://www.amazon.com/dp/0307886239
