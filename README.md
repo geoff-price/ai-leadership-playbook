@@ -1,8 +1,8 @@
 # AI Leadership — decision skills
 
-Forkable decision tools by [Geoff Price](https://ai-leadership-playbook-site.vercel.app) —
+Forkable decision tools by [Geoff Price](https://geoffprice.vercel.app) —
 one durable book idea at a time. The essays live at
-**[ai-leadership-playbook-site.vercel.app](https://ai-leadership-playbook-site.vercel.app)**;
+**[geoffprice.vercel.app](https://geoffprice.vercel.app)**;
 this repo holds the skills behind them.
 
 Each one takes a single, durable idea from a book worth reading and turns it into something
