@@ -52,6 +52,10 @@ real obstacle. This tool forces that.
    kernel one-pager, talking points, a working doc, or a dashboard — held to the standard
    in design-brief.md.
 
+If your kernel turns out to be sound, I'll say so — I won't invent a problem to look
+clever. And if the real issue isn't strategy at all (execution, tech debt, resourcing), I'll
+tell you that instead of forcing the framework onto it.
+
 ## Fork me
 
 Adapt the questions and emphasis to your organization — a regulated enterprise and a

@@ -38,6 +38,25 @@ without trust.
 
 ---
 
-Note how the output is specific to the reader's situation, applies the kernel, and ends
-with an honest flag. Yours will differ because your diagnosis will differ — that's the
-point.
+## A second example — when the kernel is already sound
+
+Not every plan is bad strategy. Sometimes the job is to confirm it and find the real risk.
+
+**Input:** "Our diagnosis is that adjusters won't trust AI on claim decisions, so we're
+keeping AI assistive-only in claims and going production-first in member services, where we
+own the channel and can measure deflection. One workflow, one metric, then expand."
+
+**Output (excerpt):**
+
+> **This is a strategy, not a slogan.** You have a real diagnosis (trust in a regulated
+> decision), a guiding policy (prove value where stakes are low and measurement is clean),
+> and a coherent first move. No bad-strategy flags — I'm not going to invent one.
+>
+> **Biggest risk to execution:** your plan assumes a member-services win *transfers* to
+> claims. State what it has to teach you to de-risk the harder domain, or expansion stalls.
+> (Rumelt's "proximate objective" — pick a target close enough to actually be achievable —
+> is the idea to read up on here.)
+
+Note how the output is specific to the reader's situation and applies the kernel. When the
+thinking is sound, the skill says so and turns to the real execution risk — it does not
+manufacture flaws. Yours will differ because your diagnosis will differ — that's the point.

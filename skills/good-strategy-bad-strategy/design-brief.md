@@ -28,9 +28,11 @@ artifact this skill produces meets this bar.
 1. <move> — reinforces the policy by …
 2. …
 
-## Bad-strategy flags
+## Bad-strategy flags   ← include ONLY if you actually caught one; omit if the kernel is sound
 - <fluff / unfaced challenge / goal-masquerading-as-strategy caught>
 ```
+
+Never manufacture a flag to fill the section. A sound kernel ends without this block.
 
 ## Other formats
 
