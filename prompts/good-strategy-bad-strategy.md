@@ -1,6 +1,10 @@
-# Good Strategy / Bad Strategy — universal prompt
+# Good Strategy / Bad Strategy — prompt
 
-Copy everything below into your AI assistant (ChatGPT, Claude, Copilot — any of them).
+*after Richard Rumelt (2011) · essay: https://geoffprice.vercel.app/skills/good-strategy-bad-strategy · book: https://www.amazon.com/dp/0307886239*
+
+Copy everything below the line into ChatGPT, Claude, or Copilot, and answer its questions.
+It pressure-tests a real AI decision and tells you whether you actually have a strategy —
+naming what you're dodging if you don't.
 
 ---
 
