@@ -18,7 +18,9 @@ your AI. That's the whole thing.
 ## Prompts
 
 - [Good Strategy / Bad Strategy](./prompts/good-strategy-bad-strategy.md) — tells you
-  whether your AI roadmap is a real strategy, and names what you're dodging if it isn't.
+  whether your AI roadmap is a real strategy, and names what you’re dodging if it isn’t.
+- [Measure What Matters](./prompts/measure-what-matters.md) — turns your AI goal into a real
+  OKR, and catches activity dressed up as a result.
 
 ## The books
 
