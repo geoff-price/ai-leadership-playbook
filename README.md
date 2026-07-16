@@ -21,6 +21,8 @@ your AI. That's the whole thing.
   whether your AI roadmap is a real strategy, and names what you’re dodging if it isn’t.
 - [Measure What Matters](./prompts/measure-what-matters.md) — turns your AI goal into a real
   OKR, and catches activity dressed up as a result.
+- [The Crux](./prompts/the-crux.md) — cuts your tangle of AI initiatives down to the one
+  problem worth solving, and names what you’re choosing not to touch.
 
 ## The books
 
