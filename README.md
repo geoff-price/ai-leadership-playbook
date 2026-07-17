@@ -23,6 +23,8 @@ your AI. That's the whole thing.
   OKR, and catches activity dressed up as a result.
 - [The Crux](./prompts/the-crux.md) — cuts your tangle of AI initiatives down to the one
   problem worth solving, and names what you’re choosing not to touch.
+- [The Goal](./prompts/the-goal.md) — finds the one step that governs your output, and tells
+  you whether your AI plan even touches it.
 
 ## The books
 
